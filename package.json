@@ -1,0 +1,23 @@
+{
+  "name": "itera-example",
+  "version": "0.0.1",
+  "description": "test and sample itera",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "test",
+    "itera"
+  ],
+  "author": "Jon Swenson",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "itera": "^0.1.7"
+  }
+}
